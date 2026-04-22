@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="/qt/qml/content/">
+    <file alias="App.qml">C:/Users/Михаил/Desktop/Apartnetwork/content/App.qml</file>
+    <file alias="PredictionPage.qml">C:/Users/Михаил/Desktop/Apartnetwork/content/PredictionPage.qml</file>
+    <file alias="TrainingPage.qml">C:/Users/Михаил/Desktop/Apartnetwork/content/TrainingPage.qml</file>
+    <file alias="fonts/fonts.txt">C:/Users/Михаил/Desktop/Apartnetwork/content/fonts/fonts.txt</file>
+  </qresource>
+</RCC>
+

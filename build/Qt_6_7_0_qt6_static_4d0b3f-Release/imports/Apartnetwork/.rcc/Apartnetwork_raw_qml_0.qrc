@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="/qt/qml/Apartnetwork/">
+    <file alias="Constants.qml">C:/Users/Михаил/Desktop/Apartnetwork/imports/Apartnetwork/Constants.qml</file>
+    <file alias="DirectoryFontLoader.qml">C:/Users/Михаил/Desktop/Apartnetwork/imports/Apartnetwork/DirectoryFontLoader.qml</file>
+    <file alias="EventListModel.qml">C:/Users/Михаил/Desktop/Apartnetwork/imports/Apartnetwork/EventListModel.qml</file>
+    <file alias="EventListSimulator.qml">C:/Users/Михаил/Desktop/Apartnetwork/imports/Apartnetwork/EventListSimulator.qml</file>
+  </qresource>
+</RCC>
+

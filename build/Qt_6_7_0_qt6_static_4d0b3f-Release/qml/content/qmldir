@@ -1,0 +1,10 @@
+module content
+linktarget contentplugin
+optional plugin contentplugin
+classname contentPlugin
+typeinfo content.qmltypes
+prefer :/qt/qml/content/
+App 1.0 App.qml
+PredictionPage 1.0 PredictionPage.qml
+TrainingPage 1.0 TrainingPage.qml
+

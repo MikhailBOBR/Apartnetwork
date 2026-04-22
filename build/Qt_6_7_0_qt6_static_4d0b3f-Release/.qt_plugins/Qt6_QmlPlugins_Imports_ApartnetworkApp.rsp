@@ -1,0 +1,15 @@
+-rootPath
+C:/Users/Михаил/Desktop/Apartnetwork
+-cmake-output
+-output-file
+C:/Users/Михаил/Desktop/Apartnetwork/build/Qt_6_7_0_qt6_static_4d0b3f-Release/.qt_plugins/Qt6_QmlPlugins_Imports_ApartnetworkApp.cmake
+-importPath
+C:/Users/Михаил/Desktop/Apartnetwork/build/Qt_6_7_0_qt6_static_4d0b3f-Release/qml/Main
+-importPath
+C:/Users/Михаил/Desktop/Apartnetwork/build/Qt_6_7_0_qt6_static_4d0b3f-Release/qml
+-importPath
+C:/msys64/mingw64/share/qt6/qml
+-qrcFiles
+C:/Users/Михаил/Desktop/Apartnetwork/build/Qt_6_7_0_qt6_static_4d0b3f-Release/.rcc/configuration.qrc
+C:/Users/Михаил/Desktop/Apartnetwork/build/Qt_6_7_0_qt6_static_4d0b3f-Release/.rcc/qmake_Main.qrc
+C:/Users/Михаил/Desktop/Apartnetwork/build/Qt_6_7_0_qt6_static_4d0b3f-Release/.rcc/ApartnetworkApp_raw_qml_0.qrc

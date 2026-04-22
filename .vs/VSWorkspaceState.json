@@ -1,0 +1,22 @@
+{
+  "OutputFoldersPerTargetSystem": {
+    "\u041B\u043E\u043A\u0430\u043B\u044C\u043D\u044B\u0439 \u043A\u043E\u043C\u043F\u044C\u044E\u0442\u0435\u0440": [
+      "out\\build\\x64-Debug",
+      "out\\install\\x64-Debug"
+    ]
+  },
+  "ExpandedNodes": [
+    "",
+    "\\cmake-build-debug",
+    "\\cmake-build-debug-mingw",
+    "\\cmake-build-debug-mingw\\.cmake",
+    "\\cmake-build-debug-mingw\\.cmake\\api",
+    "\\cmake-build-debug\\.cmake",
+    "\\cmake-build-debug\\.cmake\\api",
+    "\\cmake-build-debug\\.cmake\\api\\v1",
+    "\\cmake-build-debug\\.cmake\\api\\v1\\query",
+    "\\content"
+  ],
+  "SelectedNode": "\\src",
+  "PreviewInSolutionExplorer": false
+}

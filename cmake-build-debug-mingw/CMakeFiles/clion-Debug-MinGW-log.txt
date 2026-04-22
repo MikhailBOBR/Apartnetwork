@@ -1,0 +1,17 @@
+"C:\Users\User\AppData\Local\Programs\CLion Nova\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -CMAKE_PREFIX_PATH=C:\Qt\6.7.0\mingw_64 -S C:\Users\User\Projects\Apartnetwork -B C:\Users\User\Projects\Apartnetwork\cmake-build-debug-mingw
+loading initial cache file MAKE_PREFIX_PATH=C:\Qt\6.7.0\mingw_64
+CMake Error: Not a file: C:/Users/User/Projects/Apartnetwork/cmake-build-debug-mingw/MAKE_PREFIX_PATH=C:/Qt/6.7.0/mingw_64
+CMake Error: Error processing file: C:/Users/User/Projects/Apartnetwork/cmake-build-debug-mingw/MAKE_PREFIX_PATH=C:/Qt/6.7.0/mingw_64
+-- Building for: NMake Makefiles
+CMake Error at CMakeLists.txt:6 (project):
+  Running
+
+   'nmake' '-?'
+
+  failed with:
+
+   no such file or directory
+
+
+CMake Error: CMAKE_CXX_COMPILER not set, after EnableLanguage
+-- Configuring incomplete, errors occurred!

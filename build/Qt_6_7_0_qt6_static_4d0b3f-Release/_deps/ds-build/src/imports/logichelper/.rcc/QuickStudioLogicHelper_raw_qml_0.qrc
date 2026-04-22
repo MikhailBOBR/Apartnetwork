@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="/qt-project.org/imports/QtQuick/Studio/LogicHelper/">
+    <file alias="BidirectionalBinding.qml">C:/Users/Михаил/Desktop/Apartnetwork/build/Qt_6_7_0_qt6_static_4d0b3f-Release/_deps/ds-src/src/imports/logichelper/BidirectionalBinding.qml</file>
+    <file alias="RangeMapper.qml">C:/Users/Михаил/Desktop/Apartnetwork/build/Qt_6_7_0_qt6_static_4d0b3f-Release/_deps/ds-src/src/imports/logichelper/RangeMapper.qml</file>
+    <file alias="MinMaxMapper.qml">C:/Users/Михаил/Desktop/Apartnetwork/build/Qt_6_7_0_qt6_static_4d0b3f-Release/_deps/ds-src/src/imports/logichelper/MinMaxMapper.qml</file>
+    <file alias="StringMapper.qml">C:/Users/Михаил/Desktop/Apartnetwork/build/Qt_6_7_0_qt6_static_4d0b3f-Release/_deps/ds-src/src/imports/logichelper/StringMapper.qml</file>
+    <file alias="OrOperator.qml">C:/Users/Михаил/Desktop/Apartnetwork/build/Qt_6_7_0_qt6_static_4d0b3f-Release/_deps/ds-src/src/imports/logichelper/OrOperator.qml</file>
+    <file alias="AndOperator.qml">C:/Users/Михаил/Desktop/Apartnetwork/build/Qt_6_7_0_qt6_static_4d0b3f-Release/_deps/ds-src/src/imports/logichelper/AndOperator.qml</file>
+    <file alias="NotOperator.qml">C:/Users/Михаил/Desktop/Apartnetwork/build/Qt_6_7_0_qt6_static_4d0b3f-Release/_deps/ds-src/src/imports/logichelper/NotOperator.qml</file>
+  </qresource>
+</RCC>
+

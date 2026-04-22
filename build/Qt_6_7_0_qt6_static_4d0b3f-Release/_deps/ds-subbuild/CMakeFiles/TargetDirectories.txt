@@ -1,0 +1,3 @@
+C:/Users/Михаил/Desktop/Apartnetwork/build/Qt_6_7_0_qt6_static_4d0b3f-Release/_deps/ds-subbuild/CMakeFiles/ds-populate.dir
+C:/Users/Михаил/Desktop/Apartnetwork/build/Qt_6_7_0_qt6_static_4d0b3f-Release/_deps/ds-subbuild/CMakeFiles/edit_cache.dir
+C:/Users/Михаил/Desktop/Apartnetwork/build/Qt_6_7_0_qt6_static_4d0b3f-Release/_deps/ds-subbuild/CMakeFiles/rebuild_cache.dir

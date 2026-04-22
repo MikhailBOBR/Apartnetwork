@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/\u041c\u0438\u0445\u0430\u0438\u043b/Desktop/Apartnetwork/build/Qt_6_7_0_qt6_static_4d0b3f-Release/_deps/ds-subbuild/CMakeFiles/ds-populate"
+		},
+		{
+			"file" : "C:/Users/\u041c\u0438\u0445\u0430\u0438\u043b/Desktop/Apartnetwork/build/Qt_6_7_0_qt6_static_4d0b3f-Release/_deps/ds-subbuild/CMakeFiles/ds-populate.rule"
+		},
+		{
+			"file" : "C:/Users/\u041c\u0438\u0445\u0430\u0438\u043b/Desktop/Apartnetwork/build/Qt_6_7_0_qt6_static_4d0b3f-Release/_deps/ds-subbuild/CMakeFiles/ds-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/\u041c\u0438\u0445\u0430\u0438\u043b/Desktop/Apartnetwork/build/Qt_6_7_0_qt6_static_4d0b3f-Release/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/\u041c\u0438\u0445\u0430\u0438\u043b/Desktop/Apartnetwork/build/Qt_6_7_0_qt6_static_4d0b3f-Release/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/\u041c\u0438\u0445\u0430\u0438\u043b/Desktop/Apartnetwork/build/Qt_6_7_0_qt6_static_4d0b3f-Release/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/\u041c\u0438\u0445\u0430\u0438\u043b/Desktop/Apartnetwork/build/Qt_6_7_0_qt6_static_4d0b3f-Release/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/\u041c\u0438\u0445\u0430\u0438\u043b/Desktop/Apartnetwork/build/Qt_6_7_0_qt6_static_4d0b3f-Release/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/\u041c\u0438\u0445\u0430\u0438\u043b/Desktop/Apartnetwork/build/Qt_6_7_0_qt6_static_4d0b3f-Release/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/\u041c\u0438\u0445\u0430\u0438\u043b/Desktop/Apartnetwork/build/Qt_6_7_0_qt6_static_4d0b3f-Release/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/\u041c\u0438\u0445\u0430\u0438\u043b/Desktop/Apartnetwork/build/Qt_6_7_0_qt6_static_4d0b3f-Release/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"ds-populate"
+		],
+		"name" : "ds-populate"
+	}
+}

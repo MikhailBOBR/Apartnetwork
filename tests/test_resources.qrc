@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/test-assets">
+        <file alias="moscow_apartments_2023.csv">../assets/moscow_apartments_2023.csv</file>
+    </qresource>
+</RCC>

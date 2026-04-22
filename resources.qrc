@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>assets/housing.csv</file>
+        <file>assets/moscow_apartments_2023.csv</file>
+    </qresource>
+</RCC>
